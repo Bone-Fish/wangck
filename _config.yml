@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "王朝坤(Chaokun Wang)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "王朝坤(Chaokun Wang)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Hefei, China"
+  school         : "University of Science and Technology of China"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wangck@mail.ustc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
